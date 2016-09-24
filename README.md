@@ -5,24 +5,33 @@
 [![License](https://img.shields.io/cocoapods/l/DMColorManager.svg?style=flat)](http://cocoapods.org/pods/DMColorManager)
 [![Platform](https://img.shields.io/cocoapods/p/DMColorManager.svg?style=flat)](http://cocoapods.org/pods/DMColorManager)
 
+DMColorManager is a simple library to use great colors for development your apps, which includes famous colors such as Twitter blue, Facebook blue, Instagram gray and so on.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+Xcode7.3, iOS9.3.2
 
 ## Installation
 
 DMColorManager is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
+**CocoaPods**
+
 ```ruby
 pod "DMColorManager"
 ```
 
+**Carthage**
+※Work in progress
+
 ## Author
 
-masuhara, info@masuhara.net
+Daisuke Masuhara
+Twitter: [@masuahra_](https://twitter.com/masuhara_)
 
 ## License
 
