@@ -1,0 +1,6 @@
+framework module DMColorManager {
+  umbrella header "DMColorManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

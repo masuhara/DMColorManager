@@ -1,0 +1,22 @@
+{
+  "name": "DMColorManager",
+  "version": "0.1.0",
+  "summary": "A short description of DMColorManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/DMColorManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "masuhara": "info@masuhara.net"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/DMColorManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DMColorManager/Classes/**/*"
+}
