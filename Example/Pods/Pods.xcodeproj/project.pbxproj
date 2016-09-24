@@ -15,7 +15,6 @@
 		13CC849FA70CADF802470B6A90DCDF79 /* AllPass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03AD566EC508F35AEBD09410C38B0113 /* AllPass.swift */; };
 		144B1A58C8D2CBAF4C218B1336E0ECA4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAC405455F8E20BD0434D9D3E3D2879A /* Foundation.framework */; };
 		15EE07D0D1825F9A1C3BB9BBBED3F9B0 /* DMColorManager-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B8FFEA560D3E6804A5980132A1DEF306 /* DMColorManager-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1675F50A2B196E56ED01C702F48F251C /* DMColorManager-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FD9E987419D9FDF87BFEE56EEB8C870 /* DMColorManager-dummy.m */; };
 		1909B7660A2F247CF0A89E2C6FC09A34 /* World.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AEDCA8E96FF6E3C7A604705D4D34B06 /* World.swift */; };
 		1ED8C77E9422C66BBF56E6C10D5826F0 /* NMBExceptionCapture.m in Sources */ = {isa = PBXBuildFile; fileRef = D365431FBA3C40A9570E9266B44005D7 /* NMBExceptionCapture.m */; };
 		1F87BEA571C8382B3DB7F11BDE5CF334 /* QCKDSL.h in Headers */ = {isa = PBXBuildFile; fileRef = 7005B0ADF96C275382B45359AE1A0FDC /* QCKDSL.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -45,6 +44,7 @@
 		59FADF9BA717021C9BEEB10851C5E4ED /* ExampleHooks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66A3FFEFA87108503C1154659236D755 /* ExampleHooks.swift */; };
 		5AAFF47BDEC1DF7EC886293D50B72959 /* Example.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875A7681674D572B7002D69BBCD1BA09 /* Example.swift */; };
 		5B55E5A43E8F69A2B314BF4372BCD563 /* NSString+QCKSelectorName.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A83F0092F039C6F7AFC5D9D1E55E3BE /* NSString+QCKSelectorName.m */; };
+		5C2B2BE60178FFBB9711ABE84B254935 /* DMColorManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB2D7116CB39F916A67FCBC911C2A307 /* DMColorManager.swift */; };
 		5EF5C00C6AECE1FCFFF118577817F5CE /* Equal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45D3661DD977D936FA0FEA7FDE08D852 /* Equal.swift */; };
 		601369AE923C301ACCFC3FDEF915E507 /* QuickSpec.h in Headers */ = {isa = PBXBuildFile; fileRef = 3973F89F7C13EAD4855CFC68BCC8511E /* QuickSpec.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		63BBD83995BA60FA7D2E6AD4138C0D71 /* Functional.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354B5315AD30C24D1172D4F1524B068D /* Functional.swift */; };
@@ -73,7 +73,6 @@
 		9B5DE58927557CE87968C051D2A1C47E /* BeLogical.swift in Sources */ = {isa = PBXBuildFile; fileRef = D29528E2ADACEB31F5B2380DA50612C1 /* BeLogical.swift */; };
 		9DD1085E88EEC6F0789E6E46A61B617B /* Quick-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ED85DFD58F13E73CC6080D18D5C1E10 /* Quick-dummy.m */; };
 		9F08F74CB8740CF0EFF26746EEB0C930 /* CurrentTestCaseTracker.m in Sources */ = {isa = PBXBuildFile; fileRef = 9759ABA2939945FD31FB478AE32D9E15 /* CurrentTestCaseTracker.m */; };
-		9F92F5815CC804A8FA9EAB7696A2C9CF /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2AF99120941F37FEE936F103EC523CA /* ReplaceMe.swift */; };
 		A2CABD326609AD67377700A148785E09 /* BeAnInstanceOf.swift in Sources */ = {isa = PBXBuildFile; fileRef = C34071C41916A37E669FEEBA855F42C2 /* BeAnInstanceOf.swift */; };
 		A374A2729E32469085C5025EC7115EB8 /* Stringers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6CF762208E123E2F61AEE13E62DCA565 /* Stringers.swift */; };
 		A55EC200F57C00E9A78D8A9DA4545338 /* HaveCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DF1A6A09F31564DDB5769E5567558BD /* HaveCount.swift */; };
@@ -89,6 +88,7 @@
 		C81FFEEC76399EF3C7C1EE349C810E76 /* NimbleXCTestHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DE7320F652DCF39EB6A1476F0C761B /* NimbleXCTestHandler.swift */; };
 		CD0A671D2A8DD31D50449BB358C56134 /* Expression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41006CFFEC28B4197817C14B5D087239 /* Expression.swift */; };
 		CECB99C88DCA8194480B2963A69FD036 /* World+DSL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 299FCFFDCC88E9151397B8D50F79E36E /* World+DSL.swift */; };
+		D09E84A2C570020875DDCD18A3B684C1 /* DMColorManager-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FD9E987419D9FDF87BFEE56EEB8C870 /* DMColorManager-dummy.m */; };
 		D3F4FA81CE47B9230B02BF4EDA5C7DCB /* Quick.h in Headers */ = {isa = PBXBuildFile; fileRef = 7EB79662DFF8CAC9A93BB403631D5490 /* Quick.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D41F628A81153A978EB209E4FE925700 /* Nimble.h in Headers */ = {isa = PBXBuildFile; fileRef = BE582507271FE02BA93C412C422D4ED8 /* Nimble.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D67E4F22D37CD37EEB6248E9ED8F5208 /* ExampleMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4D34ECCB9113A10197320CD540DDA73 /* ExampleMetadata.swift */; };
@@ -242,12 +242,12 @@
 		D772AF03D0B82E63647D129AEA9CCF1B /* SuiteHooks.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SuiteHooks.swift; path = Sources/Quick/Hooks/SuiteHooks.swift; sourceTree = "<group>"; };
 		D90C7EF12BFF57324CAB1F99C968C0BF /* Quick.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Quick.xcconfig; sourceTree = "<group>"; };
 		D9B1610A73FCFED2EA009467160D6970 /* Pods-DMColorManager_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DMColorManager_Example-umbrella.h"; sourceTree = "<group>"; };
+		DB2D7116CB39F916A67FCBC911C2A307 /* DMColorManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DMColorManager.swift; sourceTree = "<group>"; };
 		DC07B6CC006238186A56EEC6E8D3CD88 /* Callsite.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Callsite.swift; path = Sources/Quick/Callsite.swift; sourceTree = "<group>"; };
 		DC1FD51C6442C713FB319C1C9A49AB19 /* MatcherProtocols.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MatcherProtocols.swift; path = Sources/Nimble/Matchers/MatcherProtocols.swift; sourceTree = "<group>"; };
 		DE3C8A356B44398ECE2F664B378A6443 /* World+DSL.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "World+DSL.h"; path = "Sources/Quick/DSL/World+DSL.h"; sourceTree = "<group>"; };
 		E124D19BC9A195791938A5946C03B103 /* Nimble.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Nimble.xcconfig; sourceTree = "<group>"; };
 		E2353FC0C41320250E7132DE6734F885 /* QuickConfiguration.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = QuickConfiguration.m; path = Sources/Quick/Configuration/QuickConfiguration.m; sourceTree = "<group>"; };
-		E2AF99120941F37FEE936F103EC523CA /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		E2DE7320F652DCF39EB6A1476F0C761B /* NimbleXCTestHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NimbleXCTestHandler.swift; path = Sources/Nimble/Adapters/NimbleXCTestHandler.swift; sourceTree = "<group>"; };
 		E35758606372D48F31E9995A3970A3C7 /* Pods-DMColorManager_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DMColorManager_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E4199DC6554F178FEF57B2DB1AF8D684 /* Pods-DMColorManager_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DMColorManager_Example-resources.sh"; sourceTree = "<group>"; };
@@ -318,7 +318,7 @@
 		0BFDF58A0D615E77ECC0E2807EDB846C /* DMColorManager */ = {
 			isa = PBXGroup;
 			children = (
-				DE4EF1425B5EE9EC609F758E5967B849 /* Classes */,
+				AAF0FAFAD67FC96AAFF670AA62582E7B /* Classes */,
 			);
 			path = DMColorManager;
 			sourceTree = "<group>";
@@ -437,6 +437,14 @@
 			path = "Example/Pods/Target Support Files/DMColorManager";
 			sourceTree = "<group>";
 		};
+		AAF0FAFAD67FC96AAFF670AA62582E7B /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				DB2D7116CB39F916A67FCBC911C2A307 /* DMColorManager.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		B169DE033E070D393232EAAD0ACD2660 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -527,14 +535,6 @@
 				B89BF7315BAB3516AF2A51041DC39C3B /* XCTest.framework */,
 			);
 			name = iOS;
-			sourceTree = "<group>";
-		};
-		DE4EF1425B5EE9EC609F758E5967B849 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				E2AF99120941F37FEE936F103EC523CA /* ReplaceMe.swift */,
-			);
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		E180574B2455184195E3B30A5E5E6FF4 /* Support Files */ = {
@@ -629,7 +629,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D6B328878574D2A7483DF5E73298EA40 /* Build configuration list for PBXNativeTarget "DMColorManager" */;
 			buildPhases = (
-				DB533F271C00F0D5CEEFFB60914D23F4 /* Sources */,
+				621A230AE006E97411DC0234CFA4B215 /* Sources */,
 				63951B5854E195BF8E0C73CF590E59BC /* Frameworks */,
 				4ADAC11C50AE72D7EE0F6819DA79FFE0 /* Headers */,
 			);
@@ -798,20 +798,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		621A230AE006E97411DC0234CFA4B215 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D09E84A2C570020875DDCD18A3B684C1 /* DMColorManager-dummy.m in Sources */,
+				5C2B2BE60178FFBB9711ABE84B254935 /* DMColorManager.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		78923BE626F7441707B39C85DD21936A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				311F3E201F13FD6B4E88690A94DCBD3B /* Pods-DMColorManager_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		DB533F271C00F0D5CEEFFB60914D23F4 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				1675F50A2B196E56ED01C702F48F251C /* DMColorManager-dummy.m in Sources */,
-				9F92F5815CC804A8FA9EAB7696A2C9CF /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

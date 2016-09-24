@@ -13,7 +13,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DMColorManager: 671ee15285474de6e2a8a7d98ccc388387adf4d4
+  DMColorManager: 55d68764b287dee7d3268626bfc25a24daf638dd
   Nimble: 703854335d181df169bbca9c97117b5cf8c47c1d
   Quick: 13a2a2b19a5d8e3ed4fd0c36ee46597fd77ebf71
 

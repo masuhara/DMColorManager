@@ -7,12 +7,14 @@
 //
 
 import UIKit
+import DMColorManager
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        self.view.backgroundColor = DMColorManager.twitterBlue()
     }
 
     override func didReceiveMemoryWarning() {
