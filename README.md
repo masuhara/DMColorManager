@@ -7,10 +7,6 @@
 
 DMColorManager is a simple library to use great colors for development your apps, which includes famous colors such as Twitter blue, Facebook blue, Instagram gray and so on.
 
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
 ## Requirements
 Xcode7.3, iOS9.3.2
 
@@ -27,6 +23,42 @@ pod "DMColorManager"
 
 **Carthage**
 ※Work in progress
+
+## Usage
+
+```swift
+
+import UIKit
+import DMColorManager
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view, typically from a nib.
+        self.view.backgroundColor = DMColorManager.twitterBlue()
+    }
+
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+        // Dispose of any resources that can be recreated.
+    }
+
+}
+
+```
+
+## Colors
+17 great colors are available with var.0.1.0. Example colors are below.
+
+|functionName|RGB|
+|---|---|
+|twitterBlue|(29, 202, 255)|
+|facebookBlue|(59, 89, 152)|
+|youtubeRed|(187, 0, 0)|
+|instagramBlue|(18, 86, 136)|
+|snapchatYellow|(255, 252, 180)|
+|vineGreen|(0, 191, 143)|
 
 ## Author
 
