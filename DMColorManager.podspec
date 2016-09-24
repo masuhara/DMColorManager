@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DMColorManager'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of DMColorManager.'
+  s.summary          = 'DMColorManager provide good colors for developing your apps.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,15 +18,15 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+DMColorManager provide good colors for developing your apps. You can use great colors which is used in famous apps such as Twitter, Facebook, Instagram and so on.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/DMColorManager'
+  s.homepage         = 'https://github.com/masuhara/DMColorManager'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'masuhara' => 'info@masuhara.net' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/DMColorManager.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/masuhara/DMColorManager.git', :tag => s.version.to_s }
+  s.social_media_url = 'https://twitter.com/masuhara_'
 
   s.ios.deployment_target = '8.0'
 
